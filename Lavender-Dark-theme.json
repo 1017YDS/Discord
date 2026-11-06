@@ -187,26 +187,6 @@
       "#29283D",
       "#29283D",
       "#29283D"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND_HOVER": [
-      "#302F45",
-      "#302F45",
-      "#302F45"
-    ],
-    "CHANNELTEXTAREA_BACKGROUND_FOCUS": [
-      "#302F45",
-      "#302F45",
-      "#302F45"
-    ],
-    "INPUT_BACKGROUND_HOVER": [
-      "#302F45",
-      "#302F45",
-      "#302F45"
-    ],
-    "INPUT_BACKGROUND_FOCUS": [
-      "#302F45",
-      "#302F45",
-      "#302F45"
     ]
   },
   "rawColors": {
