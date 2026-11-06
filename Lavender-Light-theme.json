@@ -1,0 +1,209 @@
+{
+  "name": "Lavender Light",
+  "description": "밝은 라벤더 색상의 디스코드 테마. 2026-11-05에 공유한 화면을 바탕으로 제작.",
+  "authors": [
+    {
+      "name": "ChatGPT"
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": [
+      "#41466F",
+      "#41466F",
+      "#41466F"
+    ],
+    "HEADER_SECONDARY": [
+      "#626895",
+      "#626895",
+      "#626895"
+    ],
+    "TEXT_NORMAL": [
+      "#292D4B",
+      "#292D4B",
+      "#292D4B"
+    ],
+    "TEXT_MUTED": [
+      "#7076A4",
+      "#7076A4",
+      "#7076A4"
+    ],
+    "TEXT_LINK": [
+      "#5366C7",
+      "#5366C7",
+      "#5366C7"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#626AA8",
+      "#626AA8",
+      "#626AA8"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#4F589B",
+      "#4F589B",
+      "#4F589B"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#394584",
+      "#394584",
+      "#394584"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#A0A5C9",
+      "#A0A5C9",
+      "#A0A5C9"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#D6D9FC",
+      "#D6D9FC",
+      "#D6D9FC"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#B0B6F2",
+      "#B0B6F2",
+      "#B0B6F2"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#AEB5F0",
+      "#AEB5F0",
+      "#AEB5F0"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#A9AFF0",
+      "#A9AFF0",
+      "#A9AFF0"
+    ],
+    "BACKGROUND_ACCENT": [
+      "#929BE8",
+      "#929BE8",
+      "#929BE8"
+    ],
+    "BACKGROUND_FLOATING": [
+      "#E8E9FF",
+      "#E8E9FF",
+      "#E8E9FF"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#D6D9FC",
+      "#D6D9FC",
+      "#D6D9FC"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#B0B6F2",
+      "#B0B6F2",
+      "#B0B6F2"
+    ],
+    "BACKGROUND_NESTED_FLOATING": [
+      "#E2E4FF",
+      "#E2E4FF",
+      "#E2E4FF"
+    ],
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#C7CCF7",
+      "#C7CCF7",
+      "#C7CCF7"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#C5CAF5",
+      "#C5CAF5",
+      "#C5CAF5"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#AAB2EC",
+      "#AAB2EC",
+      "#AAB2EC"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#B8BFF3",
+      "#B8BFF3",
+      "#B8BFF3"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#929BE8",
+      "#929BE8",
+      "#929BE8"
+    ],
+    "SCROLLBAR_THIN_THUMB": [
+      "#929BE8",
+      "#929BE8",
+      "#929BE8"
+    ],
+    "SCROLLBAR_THIN_TRACK": [
+      "#C7CBF5",
+      "#C7CBF5",
+      "#C7CBF5"
+    ],
+    "SCROLLBAR_AUTO_THUMB": [
+      "#8993E2",
+      "#8993E2",
+      "#8993E2"
+    ],
+    "SCROLLBAR_AUTO_TRACK": [
+      "#C7CBF5",
+      "#C7CBF5",
+      "#C7CBF5"
+    ],
+    "CHANNELTEXTAREA_BACKGROUND": [
+      "#F1F2FF",
+      "#F1F2FF",
+      "#F1F2FF"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#62699D",
+      "#62699D",
+      "#62699D"
+    ],
+    "TEXT_DANGER": [
+      "#D64B78",
+      "#D64B78",
+      "#D64B78"
+    ],
+    "KEYBOARD": [
+      "#E6E8FF",
+      "#E6E8FF",
+      "#E6E8FF"
+    ],
+    "CHANNEL_ICON": [
+      "#656BA0",
+      "#656BA0",
+      "#656BA0"
+    ],
+    "CHAT_BACKGROUND": [
+      "#D6D9FC",
+      "#D6D9FC",
+      "#D6D9FC"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#9298C8",
+      "#9298C8",
+      "#9298C8"
+    ],
+    "SPOILER_REVEALED_BACKGROUND": [
+      "#C1C6F0",
+      "#C1C6F0",
+      "#C1C6F0"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_100": "#F1F2FF",
+    "PRIMARY_200": "#D6D9FC",
+    "PRIMARY_300": "#C7CCF7",
+    "PRIMARY_360": "#B0B6F2",
+    "PRIMARY_400": "#A9AFF0",
+    "PRIMARY_500": "#929BE8",
+    "PRIMARY_600": "#7D87D7",
+    "PRIMARY_630": "#737DCB",
+    "PRIMARY_660": "#6872BE",
+    "PRIMARY_700": "#5B65AA",
+    "PRIMARY_800": "#414B8B",
+    "BRAND_260": "#AEB5F0",
+    "BRAND_360": "#929BE8",
+    "BRAND_500": "#737FE0",
+    "BRAND_560": "#5E6BCB",
+    "WHITE_500": "#FFFFFF",
+    "BLACK": "#252943",
+    "YELLOW_300": "#E8C85C",
+    "GREEN_360": "#63A985",
+    "RED_400": "#D64B78"
+  }
+}
